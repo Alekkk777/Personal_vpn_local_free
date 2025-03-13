@@ -311,8 +311,6 @@ cd ~/openvpn-ca
 ## 🤝 Contributions
 Contributions and improvements are welcome! Open issues or pull requests.
 
-## 📄 License
-[INSERT APPROPRIATE LICENSE]
 ```
 
 
